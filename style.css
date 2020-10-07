@@ -41,10 +41,15 @@ h2 {
   font-weight: bolder;
   border-radius: 5px;
   font-size: 25px;
+  padding: 7px;
 }
 #lewagon:hover {
   background: #B0D0D3;
   font-size: 30px;
+}
+p.description {
+  margin-left: 10px;
+  margin-right: ;
 }
 .container {
     width: 55%;
@@ -70,6 +75,7 @@ h2 {
 .card {
   display: inline-block;
   align-items: center;
+  padding: 10px;
 }
 .follow-me {
  margin-end: 0;
