@@ -47,7 +47,7 @@ h2 {
   font-size: 30px;
 }
 .container {
-    width: 50%;
+    width: 55%;
     margin: 0 auto;
   }
 #firstbox {
@@ -55,7 +55,7 @@ h2 {
   text-align: center;
   border-radius: 5px;
   background: white;
-  box-shadow: 0 7px 20px grey;
+  box-shadow: 0 7px 17px #D5AFBC;
   padding-top:10px;
 }
 .box {
@@ -63,7 +63,7 @@ h2 {
   text-align: center;
   border-radius: 5px;
   background: white;
-  box-shadow: 0 10px 30px grey;
+  box-shadow: 0 7px 17px #D5AFBC;
   padding-top:10px;
   margin-top: 25px;
 }
@@ -110,7 +110,7 @@ h2 {
 }
 @media (max-width: 960px) {
   .container {
-    width: 70%;
+    width: 75%;
     margin: 0 auto;
   }
 }
